@@ -43,3 +43,6 @@ end
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+
+#Added by ARW at request of Heroku
+gem 'rails_12factor', group: :production
